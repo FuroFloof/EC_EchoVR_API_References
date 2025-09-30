@@ -1,0 +1,175 @@
+{
+    "sessionid":"D77FFEDC-FCDE-4905-B5E6-488667B955E7",
+    "sessionip":"80.64.218.95",
+    "match_type":"Echo_Combat_Private",
+    "map_name":"mpl_combat_fission",
+
+    "tournament_match":false,
+    "private_match":true,
+
+    "blue_round_score":0,
+    "orange_round_score":0,
+
+    "total_round_count":0,
+    
+    "contested":false,
+    
+    "right_shoulder_pressed":0.0,
+    "right_shoulder_pressed2":0.0,
+
+    "left_shoulder_pressed":0.0,
+    "left_shoulder_pressed2":0.0,
+
+    "client_name":"Furo",
+    "err_code":0,
+
+
+    "teams":
+    [
+        {
+            "team":"BLUE TEAM",
+
+            "players":
+            [
+                {
+                    "name":"Furo",
+                    "playerid":0,
+                    "userid":14712,
+
+                    "is_emote_playing":false,
+                    "number":0,
+
+                    "level":1,
+
+                    "ping":42,
+                    "packetlossratio":0.0,
+
+                    "Weapon":"assault",
+                    "TacMod":"heal",
+                    "Ordnance":"det",
+                    
+                    "Arm":"Right",
+
+                    "velocity":[0.0,0.0,0.0],
+
+                    "head":
+                    {
+                        "position":[-31.846001,-2.1240001,-3.4660001],
+                        "forward":[-0.92400002,0.27200001,0.26800001],
+                        "left":[0.26800001,-0.036000002,0.96300006],
+                        "up":[0.27100003,0.96200007,-0.040000003]
+                    },
+
+                    "body":
+                    {
+                        "position":[-31.846001,-2.1240001,-3.4660001],
+                        "forward":[-0.94200003,0.0,0.33700001],
+                        "left":[0.33700001,0.0,0.94200003],
+                        "up":[0.0,1.0,0.0]
+                    },
+
+                    "rhand":
+                    {
+                        "pos":[-32.047001,-2.4540002,-3.5310001],
+                        "forward":[-0.72000003,0.54400003,0.43000001],
+                        "left":[0.273,-0.34800002,0.89700001],
+                        "up":[0.63800001,0.76300001,0.10200001]
+                    },
+
+                    "lhand":
+                    {
+                        "pos":[-31.877001,-3.0730002,-3.2990003],
+                        "forward":[-0.30800003,-0.94200003,0.13700001],
+                        "left":[-0.037,0.156,0.98700005],
+                        "up":[-0.95100003,0.29800001,-0.083000004]
+                    }
+                }
+            ]
+        },
+
+        {
+            "team":"ORANGE TEAM"
+        },
+
+        {
+            "team":"SPECTATORS"
+        }
+    ],
+    
+
+    "player":
+    {
+        "vr_left":
+        [
+            0.98100007,
+            -0.018000001,
+            0.19400001
+        ],
+        "vr_position":
+        [
+            0.10600001,
+            0.065000005,
+            -0.073000006
+        ],
+        "vr_forward":
+        [
+            -0.19100001,
+            -0.27400002,
+            0.94200003
+        ],
+        "vr_up":
+        [
+            -0.036000002,
+            0.96100003,
+            0.273
+        ]
+    },
+
+    "last_throw":
+    {
+        "arm_speed":2.2362359,
+        "total_speed":3.5720193,
+        "off_axis_spin_deg":35.537346,
+        "wrist_throw_penalty":0.32449722,
+        "rot_per_sec":1.2782907,
+        "pot_speed_from_rot":0.96380848,
+        "speed_from_arm":2.2362359,
+        "speed_from_movement":0.99030399,
+        "speed_from_wrist":0.34547949,
+        "wrist_align_to_throw_deg":55.109303,
+        "throw_align_to_movement_deg":72.20034,
+        "off_axis_penalty":0.17354947,
+        "throw_move_penalty":1.7925117
+    },
+    
+    "pause":
+    {
+        "paused_state":"none",
+        "unpaused_team":"none",
+        "paused_requested_team":"none",
+        "unpaused_timer":0.0,
+        "paused_timer":0.0
+    },
+
+    "timers":
+    {
+        "overtime_timer":0.0,
+        "game_timer":180.0
+    },
+
+    "payload":
+    {
+        "pos":
+        [
+            -59.518002,
+            -4.6010003,
+            -4.0010004
+        ],
+        "checkpoint":0,
+        "distance":0.0,
+        "speed":0.0,
+        "defenders":0,
+        "multiplier":0,
+        "attackers":0
+    }
+}

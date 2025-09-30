@@ -1,0 +1,156 @@
+{
+    "sessionid":"8C4BC0B0-114D-4B4A-8B16-5678296B6E85",
+    "sessionip":"80.64.218.95",
+    "match_type":"Echo_Combat_Private",
+    "map_name":"mpl_combat_combustion",
+
+    "tournament_match":false,
+    "private_match":true,
+
+    "blue_round_score":0,
+    "orange_round_score":0,
+
+    "total_round_count":0,
+
+    "contested":false,
+
+    "orange_points":0.0,
+    "blue_points":0.0,
+
+    "right_shoulder_pressed":0.0,
+    "right_shoulder_pressed2":0.0,
+
+    "left_shoulder_pressed":0.0,
+    "left_shoulder_pressed2":0.0,
+
+    "client_name":"Furo",
+    "err_code":0,
+
+    
+    "teams":
+    [
+        {
+            "team":"BLUE TEAM",
+
+            "players":
+            [
+                {
+                    "name":"Furo",                    
+                    "playerid":0,
+                    "userid":14712,
+
+                    "is_emote_playing":false,
+                    "number":0,
+                    
+                    "level":1,
+
+                    "ping":40,
+                    "packetlossratio":0.0,
+
+                    "Weapon":"assault",
+                    "TacMod":"heal",
+                    "Ordnance":"det",
+
+                    "Arm":"Right",
+
+                    "velocity":[0.0,0.0,0.0],  
+
+                    "head":
+                    {
+                        "position":[9.4800005,6.2290001,-0.266],
+                        "forward":[0.28600001,0.24400002,-0.92700005],
+                        "left":[-0.95000005,-0.053000003,-0.30700001],
+                        "up":[-0.125,0.96800005,0.21700001]
+                    },
+                    
+                    "body":
+                    {
+                        "position":[9.4800005,6.2290001,-0.266],
+                        "forward":[0.23500001,0.0,-0.97200006],
+                        "left":[-0.97200006,0.0,-0.23500001],
+                        "up":[0.0,1.0,0.0]
+                    },
+
+                    "rhand":
+                    {
+                        "pos":[9.6640005,5.9490004,-0.40800002],
+                        "forward":[-0.028000001,0.53400004,-0.84500003],
+                        "left":[-0.90600002,-0.37,-0.20400001],
+                        "up":[-0.42200002,0.76000005,0.49400002]
+                    },
+
+                    "lhand":
+                    {
+                        "pos":[9.3050003,5.2910004,-0.38200003],
+                        "forward":[-0.112,-0.90800005,-0.40400001],
+                        "left":[-0.91000003,0.257,-0.32500002],
+                        "up":[0.39900002,0.33100003,-0.85500002]
+                    }
+                }
+            ]
+        },
+
+        {
+            "team":"ORANGE TEAM"
+        },
+
+        {
+            "team":"SPECTATORS"
+        }
+    ],
+
+
+    "player":
+    {
+        "vr_left":
+        [
+            0.99900007,
+            0.051000003,
+            0.014
+        ],
+        "vr_position":
+        [
+            0.027000001,
+            0.031000001,
+            -0.022000002
+        ],
+        "vr_forward":
+        [
+            -0.001,
+            -0.245, 
+            0.96900004
+        ],
+        "vr_up":
+        [
+            -0.053000003,
+            0.96800005,
+            0.245
+        ]
+    },
+
+    "last_throw":
+    {
+        "arm_speed":2.2362359,
+        "total_speed":3.5720193,
+        "off_axis_spin_deg":35.537346,
+        "wrist_throw_penalty":0.32449722,
+        "rot_per_sec":1.2782907,
+        "pot_speed_from_rot":0.96380848,
+        "speed_from_arm":2.2362359,
+        "speed_from_movement":0.99030399,
+        "speed_from_wrist":0.34547949,
+        "wrist_align_to_throw_deg":55.109303,
+        "throw_align_to_movement_deg":72.20034,
+        "off_axis_penalty":0.17354947,
+        "throw_move_penalty":1.7925117
+    },
+
+    "pause":
+    {
+        "paused_state":"none",
+        "unpaused_team":"none",
+        "paused_requested_team":"none",
+        "unpaused_timer":0.0,
+        "paused_timer":0.0
+    }
+}
